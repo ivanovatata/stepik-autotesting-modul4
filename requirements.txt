@@ -69,7 +69,7 @@ PyDispatcher==2.0.5
 pygal==2.4.0
 pygal-maps-world==1.0.2
 pygame==1.9.6
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyInstaller==3.5
 pyOpenSSL==19.0.0
